@@ -1,0 +1,11 @@
+{
+    "connection-string": {
+        "server-name": "",
+        "database-name": "",
+        "mode": "",
+        "sql-auth": {
+            "username": "",
+            "password": ""
+        }
+    }
+}
